@@ -7,8 +7,8 @@ This project is a fullstack application with a **Next.js frontend** and a **Nest
 ## 📁 Project Structure
 
 ```
-/frontend   - Next.js (App Router)
-/backend    - NestJS
+/front   - Next.js (App Router)
+/back    - NestJS
 ```
 
 ---
